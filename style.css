@@ -1,0 +1,30 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Signika Negative', sans-serif;
+}
+.card-title{
+    text-align: center;
+}
+.navbar-nav .nav-link.active {
+    color: white;
+}
+.icons{
+    color: white;
+text-align: center;
+font-size: 20px;
+}
+.navbar-toggler-icon{
+    background-color: white;
+}
+.navbar-toggler{
+  
+    background-color: white;
+}
+.card-body{
+    background-color:#E1F0DA;
+}
+.log{
+    text-align: center;
+}
+
